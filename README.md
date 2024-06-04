@@ -1,8 +1,8 @@
 # Movie Library w/ ReactJS
 
-## [Check it live here](https://movies.fidalgo.dev/)
 
-![Thumbnail](thumbnail.png)
+
+
 
 A Movie Library made with ReactJS using The Movie Database API
 
@@ -36,18 +36,3 @@ To deploy simply run
 npm run build
 ```
 
-## Built With
-
-- [React JS](https://reactjs.org/)
-- [React Router](https://github.com/ReactTraining/react-router)
-- [Redux](https://redux.js.org/)
-- [Redux Thunk](https://github.com/reduxjs/redux-thunk)
-- [Styled Components](https://www.styled-components.com)
-
-## Contributing
-
-Please feel free to send pull request if you want to contribute!
-
-## Authors
-
-- **Fidalgo** - _Development_ - [Fidalgo](https://github.com/fidalgodev)
